@@ -67,7 +67,8 @@
 - [x] 核心链路注释（26 文件）
 - [x] `READING-GUIDE.md`
 - [x] 本地 commit `d99d56d`
-- [ ] 推送私有仓 `study-excalidraw`（GitHub 账号级限流，等待恢复）
+- [x] 推送私有仓：https://github.com/qwe986050091/study-excalidraw
+      （快照分支 `study` → 远端 `main`）
 
 ## 5. 推送快照排除项
 
